@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.NetworkInformation;
 
-namespace Studentdatafile
+namespace RetriveDataFromTXTFile
 {
     internal class Program
     {
