@@ -1,0 +1,5 @@
+Student Details :
+Student Id : 1
+Student Name : Dimple
+Student enrolled courses : C# , python ,c++
+Marks On regarded courses : C# - 91/100 , Java - 90 / 100,c++ 89/100
